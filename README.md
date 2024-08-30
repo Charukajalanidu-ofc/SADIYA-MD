@@ -1,12 +1,10 @@
-##         𝗦𝗔𝗗𝗜𝗬𝗔-𝗠𝗗
+##  👨‍💻 𝗦𝗔𝗗𝗜𝗬𝗔-𝗠𝗗 👨‍💻
 
 <div class = "repo" align = "center">
  
 <a href = "#">
 <img src = "https://telegra.ph/file/3cef367ebfc7a45c10595.jpg"  width="300" height="300">
 </img>
- 
-* SADIYA MD WHATSAPP BOT
 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github"></a>
@@ -27,7 +25,7 @@ A very good bot that you can use in whatsapp.
 
 # 
 
-<a href="https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+<a href="https://whatsapp.com/channel/0029VagR9a11iUxd0hUsD501"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
 <br>
 
@@ -55,7 +53,7 @@ A very good bot that you can use in whatsapp.
 
  🎀 STEP 03 - 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗠𝗲𝘁𝗵𝗼𝗱𝘀
 
-<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/HEROKU-green" alt="HEROKU" width="300"></a>
 <br>
 #
 * [`WITH OUT MONGODB`](https://github.com/Sadiya70/SADIYA-MD-OLD)
