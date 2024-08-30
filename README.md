@@ -36,22 +36,22 @@ A very good bot that you can use in whatsapp.
 
 <br>
 
-# 🎀 STEP 01 -  Fork The Repo
+ 🎀 STEP 01 - 𝗙𝗼𝗿𝗸 𝗧𝗵𝗲 𝗥𝗲𝗽𝗼
 
-<a href="https://github.com/Sadiya70/SADIYA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
+<a href="https://github.com/Sadiya70/SADIYA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK SADIYA-MD ROPE" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## 🎀 STEP 02 -  Get Session
+ 🎀 STEP 02 - 𝗚𝗲𝘁 𝗣𝗮𝗶𝗿 𝗖𝗼𝗱𝗲
 
-<a href="https://sadiya-md-pair.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://sadiya-md-pair.koyeb.app/"><img src="https://img.shields.io/badge/PAIR%20CODE%201-blue" alt="GET SESSION" width="200"></a>
 <br>
-<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/PAIR%20CODE%202-blue" alt="GET SESSION" width="200"></a>
 <br>
 <br>
 
-## 🎀 STEP 03 -  Deployment Methods
+ 🎀 STEP 03 - 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗠𝗲𝘁𝗵𝗼𝗱𝘀
 
 <a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
