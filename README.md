@@ -24,25 +24,39 @@ SADIYA-MD whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
 # 
-* 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
-<p align="left">
-<a href="https://github.com/sadiya44/SADIYA-MD/fork"><img align="center" src="https://telegra.ph/file/0a5db285734c3da78ca06.jpg" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
-# 
+<br>
 
-* [`𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 1`](https://sadiya-md-pair.koyeb.app/)
-* [`𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 2`](https://pair-web-public.koyeb.app/)
-#
+<div align="center">
+ 
+  <h1>👇 DEPLOY NOW 👇</h1>
+</div>
+
+<br>
+
+# 🎀 STEP 01 -  Fork The Repo
+
+<a href="https://github.com/Sadiya70/SADIYA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
+</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
+## 🎀 STEP 02 -  Get Session
+
+<a href="https://sadiya-md-pair.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<br>
+<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<br>
+<br>
+
+## 🎀 STEP 03 -  Deployment Methods
+
+<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<br>
 #
 * [`WITH OUT MONGODB`](https://github.com/Sadiya70/SADIYA-MD-OLD)
 #
-+  DEPLOY STEPS
-
-1. Fork this repository ✅
-2. get pair code✅
-3. uplode pair code config.js✅
-4. now bot deply✅
-
 
 THANAKS FOR USNING SADIYA-MD
