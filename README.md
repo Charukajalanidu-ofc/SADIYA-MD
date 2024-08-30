@@ -1,3 +1,5 @@
+##         𝗦𝗔𝗗𝗜𝗬𝗔-𝗠𝗗
+
 <div class = "repo" align = "center">
  
 <a href = "#">
@@ -31,7 +33,7 @@ A very good bot that you can use in whatsapp.
 
 <div align="center">
  
-  <h1>👇 DEPLOY NOW 👇</h1>
+  <h2>👇 DEPLOY NOW 👇</h2>
 </div>
 
 <br>
