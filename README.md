@@ -45,15 +45,15 @@ A very good bot that you can use in whatsapp.
 
  👨‍💻 STEP 02 - 𝗚𝗲𝘁 𝗣𝗮𝗶𝗿 𝗖𝗼𝗱𝗲
 
-<a href="https://sadiya-md-pair.koyeb.app/"><img src="https://img.shields.io/badge/PAIR%20CODE%201-blue" alt="GET SESSION" width="200"></a>
+<a href="https://sadiya-md-pair.koyeb.app/"><img src="https://img.shields.io/badge/PAIR%20CODE%201-blue" alt="GET SESSION" width="150"></a>
 <br>
-<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/PAIR%20CODE%202-blue" alt="GET SESSION" width="200"></a>
+<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/PAIR%20CODE%202-blue" alt="GET SESSION" width="150"></a>
 <br>
 <br>
 
  👨‍💻 STEP 03 - 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗠𝗲𝘁𝗵𝗼𝗱𝘀
 
-<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/HEROKU-green" alt="HEROKU" width="300"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Sadiya70/SADIYA-MD"><img src="https://img.shields.io/badge/HEROKU-green" alt="HEROKU" width="150"></a>
 <br>
 #
 * [`WITH OUT MONGODB`](https://github.com/Sadiya70/SADIYA-MD-OLD)
