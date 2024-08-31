@@ -60,8 +60,6 @@ A very good bot that you can use in whatsapp.
 
 <a href="https://github.com/Sadiya70/SADIYA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK SADIYA-MD ROPE" width="150"></a>
 </br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<br>
 
  👨‍💻 STEP 02 - 𝗚𝗲𝘁 𝗣𝗮𝗶𝗿 𝗖𝗼𝗱𝗲
 
