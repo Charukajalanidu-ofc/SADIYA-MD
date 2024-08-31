@@ -1,10 +1,13 @@
-##  👨‍💻 𝗦𝗔𝗗𝗜𝗬𝗔-𝗠𝗗 👨‍💻
+<h1 align="center">👨‍💻SADIYA-MD👨‍💻</h1>
 
-<div class = "repo" align = "center">
- 
-<a href = "#">
-<img src = "https://telegra.ph/file/3cef367ebfc7a45c10595.jpg"  width="300" height="300">
-</img>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=SADIYA+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/Sadiya70">
+    <img src="https://telegra.ph/file/3cef367ebfc7a45c10595.jpg"  width="700px">
+</a>
+<hr>
 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github"></a>
