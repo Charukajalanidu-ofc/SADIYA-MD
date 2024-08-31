@@ -49,8 +49,8 @@
 </div>
 
 <br>
-#
- 👨‍💻 STEP 01 - 𝗙𝗼𝗿𝗸 𝗧𝗵𝗲 𝗥𝗲𝗽𝗼
+
+👨‍💻 STEP 01 - 𝗙𝗼𝗿𝗸 𝗧𝗵𝗲 𝗥𝗲𝗽𝗼
 
 <a href="https://github.com/Sadiya70/SADIYA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK SADIYA-MD ROPE" width="150"></a>
 </br>
