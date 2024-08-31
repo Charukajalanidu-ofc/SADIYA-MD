@@ -23,6 +23,11 @@
 </p>
 
 <p align="center">
+
+  <a href="https://github.com/Sadiya70/SADIYA-MD">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSadiya70%2FSADIYA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
   <a href="https://github.com/Sadiya70/SADIYA-MD">
     <img src="https://img.shields.io/github/repo-size/Sadiya70/SADIYA-MD?color=purple&label=Repo%20Size&style=plastic">
 
@@ -43,7 +48,9 @@
 <a href="https://whatsapp.com/channel/0029VagR9a11iUxd0hUsD501"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
 <br>
- 
+##
+##
+##
 <div align="center">
  
   <h1>👇 DEPLOY NOW 👇</h1>
