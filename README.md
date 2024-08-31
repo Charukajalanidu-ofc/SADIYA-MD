@@ -41,8 +41,11 @@
 <h2>⚙️ FOLLOW OUR CHANAL</h2>
 </div>
 <a href="https://whatsapp.com/channel/0029VagR9a11iUxd0hUsD501"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join WhatsApp Channel" width="350"></a>
-
+<a\>
+    
 <br>
+
+
 <div align="center">
  
   <h1>👇 DEPLOY NOW 👇</h1>
