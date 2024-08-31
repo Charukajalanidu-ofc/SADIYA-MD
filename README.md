@@ -13,34 +13,26 @@
     
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github">
 
-<a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA-MD-NEW&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
-  
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork">
-    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA-MD-NEW?label=Fork&style=social">
+  <a href="https://github.com/Sadiya70/SADIYA-MD/fork">
+    <img src="https://img.shields.io/github/forks/Sadiya70/SADIYA-MD?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/stargazers">
-    <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA-MD-NEW?style=social">
+  <a href="https://github.com/Sadiya70/SADIYA-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Sadiya70/SADIYA-MD?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/Sadiya70/SADIYA-MD">
+    <img src="https://img.shields.io/github/repo-size/Sadiya70/SADIYA-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA-MD-NEW?color=purple&label=License&style=plastic">
+  <a href="https://github.com/Sadiya70/SADIYA-MD">
+    <img src="https://img.shields.io/github/license/Sadiya70/SADIYA-MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
+  <a href="https://github.com/Sadiya70/SADIYA-MD">
+    <img src="https://img.shields.io/github/languages/top/Sadiya70/SADIYA-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
   </p>
