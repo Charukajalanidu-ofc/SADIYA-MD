@@ -46,7 +46,7 @@
 
 <div align="center">
  
-  <h3>✅ DEPLOY NOW 👇</h3>
+<h3>✅ DEPLOY NOW 👇</h3>
 </div>
 
 <br>
