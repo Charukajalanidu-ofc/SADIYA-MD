@@ -10,16 +10,40 @@
 <hr>
 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/sadiya44?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/sadiya44/SADIYA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sadiya44/SADIYA-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/sadiya44/SADIYA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sadiya44/SADIYA-MD?color=yellow&style=flat-square"></a>
+    
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github">
+
+<a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA-MD-NEW&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sadiya44/SADIYA-MD/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/sadiya44/SADIYA-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+  </a>
+  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork">
+    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA-MD-NEW?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/stargazers">
+    <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA-MD-NEW?style=social">
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
+    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Repo%20Size&style=plastic">
+
+  </a>
+  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
+    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA-MD-NEW?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
+    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Javascript&style=plastic">
+
+  </a>
+  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
+
+  </a>
+  </p>
 
 # 
 
