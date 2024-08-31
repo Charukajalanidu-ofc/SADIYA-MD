@@ -11,7 +11,10 @@
 
 <p align="center">
     
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github">
+  <a href="https://github.com/Sadiya70/SADIYA-MD">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSadiya70%2FSADIYA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
 
   <a href="https://github.com/Sadiya70/SADIYA-MD/fork">
     <img src="https://img.shields.io/github/forks/Sadiya70/SADIYA-MD?label=Fork&style=social">
@@ -25,10 +28,6 @@
 <p align="center">
 
   <a href="https://github.com/Sadiya70/SADIYA-MD">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSadiya70%2FSADIYA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
-  
-  </a>
-  <a href="https://github.com/Sadiya70/SADIYA-MD">
     <img src="https://img.shields.io/github/repo-size/Sadiya70/SADIYA-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
@@ -40,6 +39,7 @@
     <img src="https://img.shields.io/github/languages/top/Sadiya70/SADIYA-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
+  <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github">
   </p>
 
  
