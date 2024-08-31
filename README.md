@@ -39,13 +39,14 @@
 
 # 
 <p align="center">
-<h3>⚙️ FOLLOW OUR CHANAL</h3>
+<h2>⚙️ FOLLOW OUR CHANAL</h2>
 </div>
 <a href="https://whatsapp.com/channel/0029VagR9a11iUxd0hUsD501"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join WhatsApp Channel" width="350"></a>
 
 <br>
- 
- <h3>✅ DEPLOY NOW 👇 </h3>
+ #
+ <p align="center">
+ <h2>✅ DEPLOY NOW 👇 </h32>
 </div>
 
 <br>
