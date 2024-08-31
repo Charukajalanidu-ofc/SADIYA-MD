@@ -40,13 +40,9 @@
  
 <h2>⚙️ FOLLOW OUR CHANAL</h2>
 </div>
-<a href="https://whatsapp.com/channel/0029VagR9a11iUxd0hUsD501"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join WhatsApp Channel" width="350"></a>
-<a\>
-    
+<a href="https://whatsapp.com/channel/0029VagR9a11iUxd0hUsD501"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+
 <br>
-
-
-
 
 <div align="center">
  
@@ -54,6 +50,7 @@
 </div>
 
 <br>
+
 👨‍💻 STEP 01 - 𝗙𝗼𝗿𝗸 𝗧𝗵𝗲 𝗥𝗲𝗽𝗼
 
 <a href="https://github.com/Sadiya70/SADIYA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK SADIYA-MD ROPE" width="150"></a>
