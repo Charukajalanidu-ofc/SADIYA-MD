@@ -43,7 +43,7 @@
   </p>
 
  
-<h2>⚙️ FOLLOW OUR CHANAL</h2>
+<h3>⚙️ FOLLOW OUR CHANAL</h3>
 </div>
 <a href="https://whatsapp.com/channel/0029VagR9a11iUxd0hUsD501"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
  
-  <h1>👇 DEPLOY NOW 👇</h1>
+  <h2>👇 DEPLOY NOW 👇</h2>
 </div>
 
 <br>
@@ -76,7 +76,10 @@
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Sadiya70/SADIYA-MD"><img src="https://img.shields.io/badge/HEROKU-green" alt="HEROKU" width="150"></a>
 <br>
 #
-* [`WITH OUT MONGODB`](https://github.com/Sadiya70/SADIYA-MD-OLD)
-#
 
-♥️ THANAKS FOR USNING SADIYA-MD ♥️
+<h4>SADIYA MD DEVELOPER TEAM</h4>
+</div>
+
+| **[SADIYA OFC](https://github.com/Sadiya70)**</br>Founder & Developer</br> | **[Sahas](https://github.com/QUEEN-KYLIE-MD-01)**</br>  CO-Coder</br> | **[nethmika](https://github.com/Nethmikakaushalyaherath)**</br>CO-Coder</br> | **[lakshan](https://github.com/vipshadowmd)**</br> Bug Tester |
+
+♥️ THANAKS FOR USNING ♥️
