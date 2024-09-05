@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Sadiya70">
-    <img src="https://telegra.ph/file/f5c7a9097dce14dfccbbb.jpg"  width="700px">
+    <img src="https://telegra.ph/file/d63bcde8746a77e1a10ef.jpg"  width="700px">
 </a>
 <hr>
 
@@ -80,6 +80,6 @@
 <h4>SADIYA MD DEVELOPER TEAM</h4>
 </div>
 
-| **[SADIYA OFC](https://github.com/Sadiya70)**</br>Founder & Developer</br> | **[Sahas Tech](https://github.com/QUEEN-KYLIE-MD-01)**</br>  CO-Coder</br> | **[nethmika](https://github.com/Nethmikakaushalyaherath)**</br>CO-Coder</br> | **[lakshan](https://github.com/vipshadowmd)**</br> Bug Tester |
+| **[SADIYA OFC](https://github.com/Sadiya70)**</br>Founder & Developer</br> | **[Sahas](https://github.com/QUEEN-KYLIE-MD-01)**</br>  CO-Coder</br> | **[nethmika](https://github.com/Nethmikakaushalyaherath)**</br>CO-Coder</br> | **[lakshan](https://github.com/vipshadowmd)**</br> Bug Tester |
 
 ♥️ THANAKS FOR USNING ♥️
