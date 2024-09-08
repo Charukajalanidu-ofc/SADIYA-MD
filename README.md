@@ -80,9 +80,9 @@
 <h4>SADIYA MD DEVELOPER TEAM</h4>
 </div>
 
-| **[SADIYA OFC] |(https://github.com/Sadiya70)**</br>Founder & Developer</br>
-| **[NETHMIKA] |(https://github.com/Sadiya70)**</br>CO-Coder</br>
-| **[SANJUWA OFC] |(https://github.com/Sadiya70)**</br>Designer</br>
-| **[LAKSHAN] |(https://github.com/Sadiya70)**</br>Bug Tester</br>
+| **[SADIYA OFC](https://github.com/Sadiya70)**</br>Founder & Developer</br>
+| **[NETHMIKA](https://github.com/Sadiya70)**</br>CO-Coder</br>
+| **[SANJUWA OFC](https://github.com/Sadiya70)**</br>Designer</br>
+| **[LAKSHAN](https://github.com/Sadiya70)**</br>Bug Tester</br>
 
 ♥️ THANAKS FOR USNING ♥️
