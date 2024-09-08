@@ -81,9 +81,8 @@
 </div>
 
 | **[SADIYA OFC](https://github.com/Sadiya70)**</br>Founder & Developer</br>
-| **[SANJUWA OFC](https://github.com/Sadiya70)**</br>Founder & Developer</br>
-| **[NETHMIKA](https://github.com/Sadiya70)**</br>Founder & Developer</br>
-| **[LAKSHAN](https://github.com/Sadiya70)**</br>Founder & Developer</br>
-
+| **[NETHMIKA](https://github.com/Sadiya70)**</br>CO-Coder</br>
+| **[SANJUWA OFC](https://github.com/Sadiya70)**</br>Designer</br>
+| **[LAKSHAN](https://github.com/Sadiya70)**</br>Bug Tester</br>
 
 ♥️ THANAKS FOR USNING ♥️
