@@ -80,8 +80,6 @@
 <h4>SADIYA MD DEVELOPER TEAM</h4>
 </div>
 
-| **[SADIYA OFC](https://github.com/Sadiya70)**</br>Founder & Developer</br> | **[nethmika](https://github.com/Nethmikakaushalyaherath)**</br>CO-Coder</br> | **[lakshan]
-[S](https://github.com/QUEEN-KYLIE-MD-01)**</br>  CO-Coder</br> | **
-(https://github.com/vipshadowmd)**</br> Bug Tester |
+| **[SADIYA OFC](https://github.com/Sadiya70)**</br>Founder & Developer</br> | **
 
 ♥️ THANAKS FOR USNING ♥️
