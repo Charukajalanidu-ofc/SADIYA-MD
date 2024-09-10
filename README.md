@@ -65,7 +65,7 @@
 
  👨‍💻 STEP 02 - 𝗚𝗲𝘁 𝗣𝗮𝗶𝗿 𝗖𝗼𝗱𝗲
 
-<a href="https://sadiya-md-pair.koyeb.app/"><img src="https://img.shields.io/badge/PAIR%20CODE%201-blue" alt="GET SESSION" width="150"></a>
+<a href="https://sadiya-md-pair-v2.koyeb.app/"><img src="https://img.shields.io/badge/PAIR%20CODE%201-blue" alt="GET SESSION" width="150"></a>
 <br>
 <a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/PAIR%20CODE%202-blue" alt="GET SESSION" width="150"></a>
 <br>
