@@ -30,5 +30,4 @@ jobs:
       run: npm install
 
     - name: Start application
-      run: npm startname: Node.js CI
-
+      run: npm start
